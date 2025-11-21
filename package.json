@@ -1,0 +1,13 @@
+{
+  "name": "books-learning-pro-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.48.0"
+  }
+}
